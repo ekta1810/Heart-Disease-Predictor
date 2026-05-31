@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction System
 
-A Machine Learning-based web application that predicts the likelihood of heart disease using patient health parameters and provides real-time predictions through a Streamlit interface.
+A Machine Learning-based web application that predicts the risk of heart disease using patient health parameters and provides real-time predictions through a Streamlit interface.
 
 ## 🚀 Features
 
@@ -30,7 +30,7 @@ A Machine Learning-based web application that predicts the likelihood of heart d
 
 ## 🎯 Project Objective
 
-The objective of this project is to apply Machine Learning techniques in healthcare to predict the likelihood of heart disease based on patient medical data.
+The objective of this project is to apply Machine Learning techniques in healthcare to predict the risk of heart disease based on patient medical data.
 
 ## 📈 Results
 
